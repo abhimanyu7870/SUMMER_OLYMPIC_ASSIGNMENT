@@ -8,7 +8,7 @@ of all the Sports with all the Discipline of all the Athlete with Medals Details
 #### there is also simple pandas one line inbuilt coding which is easy to use 
 #### but i use basic logic so that all can understand very easily 
 #### after that i also add pandas innbuilt coding below all the basic coding for understanding purpose that what is the use of pandas inbuilt coding 
-only one sugession first uu go with basic logic after that pandas inbuilt logic. 
+only one sugession first u go with basic logic after that pandas inbuilt logic. 
 
 
 ### Features in this csv dataset:
